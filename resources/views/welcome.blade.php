@@ -81,17 +81,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Email Verification System by Mailtrap
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.facebook.com/picchinobita">facebook</a>
+                    <a href="https://www.instagram.com/nobita_bright/">Instragram</a>
+                    <a href="https://www.linkedin.com/in/jahidul-hasan-zahid-593767119/">Linkedin</a>
+                    <a href="https://github.com/jahidulhasanzahid">GitHub</a>
+                    <a href="https://www.jahidul.info/">Portfolio</a>
                 </div>
             </div>
         </div>
